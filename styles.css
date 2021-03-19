@@ -5,7 +5,7 @@
 html,
 /* nav, */
 body {
-  background-color: #d7eef1;
+  background-color: #e6f7e4;
   text-shadow: none;
   background-repeat: repeat;
   background-size: cover;
@@ -85,7 +85,7 @@ i{
 }
 
 .fa:hover {
-    border-bottom: 4px solid #d7eef1;
+    border-bottom: 4px solid #e6f7e4;
 }
 
 /* 
@@ -186,7 +186,7 @@ i{
 
 a:hover, a:focus {
     border-bottom: 3px solid #1e1659;
-    color:#d7eef1;
+    color:#e6f7e4;
 }
 /*
 * Education/Experience
